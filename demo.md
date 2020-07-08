@@ -4,6 +4,6 @@ This is the second line!
 
 And a final fourth line.
 
-And the third.
+And the third, special for the conflict-test branch.
 
 And a final fourth line. This is it.
